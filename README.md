@@ -1,22 +1,23 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/>
 </div>
 
 <h2 align="center">Welcome to my profile!</h2>
 
-Hi👋 I'm **Alina Makarovskaya**
+Hi👋 I'm **Alina Makarovskaya**  
 
-🎓 Graduated with honors in *Economics and Finance* from the Financial University under the Government of the Russian Federation (2022)
-🧾 Currently working as an accountant at **Magnit**, with 2.5+ years of experience in manufacturing operations
-🔄 Сhanged my career path and am now learning and growing as a junior Python developer — graduate of [Hexlet Programming School](https://ru.hexlet.io/)
-🚀 Built 4 hands-on projects during my studies — check them out in my repositories
-🔍 Actively growing in tech and aiming to apply my analytical mindset to development
-👥 I'm a responsible team player who enjoys learning and solving problems in creative ways
-🌱 Excited to grow as a developer and contribute to meaningful projects!
+🎓 Graduated with honors in *Economics and Finance* from the Financial University under the Government of the Russian Federation (2022)  
+🧾 Currently working as an accountant at **Magnit**, with 2.5+ years of experience in manufacturing operations  
+🔄 Сhanged my career path and am now learning and growing as a junior Python developer — graduate of [Hexlet Programming School](https://ru.hexlet.io/)  
+🚀 Built 4 hands-on projects during my studies — check them out in my repositories  
+🔍 Actively growing in tech and aiming to apply my analytical mindset to development  
+👥 I'm a responsible team player who enjoys learning and solving problems in creative ways  
+🌱 Excited to grow as a developer and contribute to meaningful projects!  
 
--------------------------
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider"/>
+
 * 🌍 Based in Krasnodar, Russia
 * ✨ Open to collaborating on projects where I can bring value, grow my skills, and keep learning
 * ✉️ You can contact me by [mail](mailto:makarovskaya1307@gmail.com) and [telegram](https://t.me/alishaevergreen)
