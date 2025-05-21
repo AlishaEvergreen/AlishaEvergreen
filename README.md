@@ -16,10 +16,10 @@ Hi👋 I'm **Alina Makarovskaya**
 👥 I'm a responsible team player who enjoys learning and solving problems in creative ways  
 🌱 Excited to grow as a developer and contribute to meaningful projects!  
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider"/>
+---
 
-* 🌍 Based in Krasnodar, Russia
-* ✨ Open to collaborating on projects where I can bring value, grow my skills, and keep learning
+* 🌍 Based in Krasnodar, Russia  
+* ✨ Open to collaborating on projects where I can bring value, grow my skills, and keep learning  
 * ✉️ You can contact me by [mail](mailto:makarovskaya1307@gmail.com) and [telegram](https://t.me/alishaevergreen)
 
 <h3 align="left">Skills:</h3>
