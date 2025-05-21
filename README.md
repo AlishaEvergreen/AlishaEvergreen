@@ -1,12 +1,12 @@
-<br clear="both">
-
-<div align="right">
-  <img height="150" width="150" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"/>
+<div align="center" style="margin-bottom: -20px;">
+  <img height="140" width="140" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Alina waving gif" />
 </div>
+
+<hr style="margin-top: 0;" />
 
 <h1 align="center">Welcome to my profile!</h1>
 
-Hi👋 I'm **Alina Makarovskaya**  
+<p align="center"><strong>Hi 👋 I'm Alina Makarovskaya</strong></p>
 
 🎓 Graduated with honors in *Economics and Finance* from the Financial University under the Government of the Russian Federation (2022)  
 🧾 Currently working as an accountant at **Magnit**, with 2.5+ years of experience in manufacturing operations  
