@@ -1,8 +1,6 @@
-<div align="center" style="margin-bottom: -20px;">
+<div align="right">
   <img height="140" width="140" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Alina waving gif" />
 </div>
-
-<hr style="margin-top: 0;" />
 
 <h1 align="center">Welcome to my profile!</h1>
 
