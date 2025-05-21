@@ -2,9 +2,9 @@
   <img height="140" width="140" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Alina waving gif" />
 </div>
 
-<p align="center" style="font-size: 32px; font-weight: bold; margin-bottom: 0;">Welcome to my profile!</p>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider"/>
-<p align="center" style="font-size: 32px; font-weight: bold; margin-bottom: 0;"><strong>Hi 👋 I'm Alina Makarovskaya</strong></p>
+<h1 align="center">Welcome to my profile!</h1>
+
+<h2 align="center"><strong>Hi 👋 I'm Alina Makarovskaya</strong></h2>
 
 🎓 Graduated with honors in *Economics and Finance* from the Financial University under the Government of the Russian Federation (2022)  
 🧾 Currently working as an accountant at **Magnit**, with 2.5+ years of experience in manufacturing operations  
